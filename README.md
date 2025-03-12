@@ -4,4 +4,4 @@
     - `python -m venv finance_env`
 
 ### Activate virtual environment
-    - .\finance_env\bin\activate
+    - .\finance_env\Scripts\activate
